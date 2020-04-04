@@ -13,7 +13,7 @@ You just need to add `introduction_screen` as a [dependency in your pubspec.yaml
 
 ```yaml
 dependencies:
-  introduction_screen: ^1.0.7
+  introduction_screen: ^1.0.8
 ```
 
 ## Example
